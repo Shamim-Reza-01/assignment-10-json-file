@@ -1,0 +1,33 @@
+ [
+      {
+        "img": "https://i.ibb.co/LnCBF2Z/Samsung.png",
+        "id": 1,
+        "name": "Samsung"
+      },
+      {
+        "img": "https://i.ibb.co/vjC068D/google.png",
+        "id": 2,
+        "name": "Google"
+      },
+      {
+        "img": "https://i.ibb.co/T0V62qj/Microsoft.png",
+        "id": 3,
+        "name": "Microsoft"
+      },
+      {
+        "img": "https://i.ibb.co/RDGrvx4/apple2.png",
+        "id": 4,
+        "name": "Apple"
+      },
+      {
+        "img": "https://i.ibb.co/k683kKz/Intel.png",
+        "id": 5,
+        "name": "Intel"
+      },
+      {
+        "img": "https://i.ibb.co/Vw9gd8r/Sony.png",
+        "id": 6,
+        "name": "Sony"
+      }
+   ]
+  
